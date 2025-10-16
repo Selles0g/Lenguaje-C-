@@ -9,9 +9,9 @@ int	main(int argc, char *argv[])
 	char 	szNombreHoe[40];
 
 	nEdad = 21;
-	strcpy (szNombre, "Adrián Selles García");
+	strcpy (szNombre, "Jorlo");
 	nHoes = 1;
-	strcpy (szNombreHoe, "Georgi");
+	strcpy (szNombreHoe, "JXXX");
 
 	printf("Nombre: %s\nEdad: %d\nHoes: %d\nNombre_Hoe: %s\n",szNombre,nEdad,nHoes,szNombreHoe);
 	printf("~Simón:\n~Bruerrg  Breuurrgh  Bleeuurreugggjh\n");
