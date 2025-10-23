@@ -5,6 +5,8 @@ int main (int argc, char *argv[])
 
    printf("Argumentos recibidos\n");
 
+//Para que no salga el nombre del archivo podemos empezar por el primer argumento//
+
    for(n = 0; n < argc; n++)
    {
       printf("Num. %d contendido=%s\n", n, argv[n]);
