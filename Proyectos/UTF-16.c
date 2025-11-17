@@ -6,7 +6,7 @@
 #include <windows.h>
 int main(int argc, char *argv[])
 {
-	//Trabaiando en UTF-16:
+	//Trabajando en UTF-16:
 	wchar t wszFrase1[200];
 	
 	//Para cambiar el contexto de página de códigos y cultura:
