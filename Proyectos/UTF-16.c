@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <wchar.h>
 #include <stdlib.h> //contiene funciones como malloc y free 
-#include <string.h> //contiene funciones como strepv v strcat
+#include <string.h> //contiene funciones como strcpy y strcat
 #include <windows.h>
 int main(int argc, char *argv[])
 {
